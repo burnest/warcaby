@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d6eeebd-be38-45ab-bdc6-8778362b5a0b" name="Default Changelist" comment="" />
+    <list default="true" id="1d6eeebd-be38-45ab-bdc6-8778362b5a0b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/warcaby/Gra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/warcaby/Gra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/warcaby/Pole.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/warcaby/Pole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/warcaby/PoleEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/warcaby/Pole_hanler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/warcaby/Turn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/warcaby/Turn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PoleEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pole_hanler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Turn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Turn.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +72,14 @@
       <option name="presentableId" value="Default" />
       <updated>1578904293747</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1581282734326</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581282734326</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,10 +87,17 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

@@ -12,7 +12,6 @@ public class Pole {
     private int pos_x;
     private int pos_y;
     private int frame;
-    private Pole_hanler test;
 
 
     public Pole(int i,int x,int y)
@@ -21,7 +20,7 @@ public class Pole {
         pos_x=x;
         pos_y=y;
         frame=0;
-        test = new Pole_hanler(this);
+
 
     }
     public int getPos_x()
@@ -73,9 +72,5 @@ public class Pole {
         return p;
     }
 
-    public void useListener()
-    {
-        test.doAction(new PoleEvent(this));
-    }
 
 }
